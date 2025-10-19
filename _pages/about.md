@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaiyuan Liu (柳凯元), a junior at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. My current research interests center around **Reinforcement Learning (RL)** — a field I believe is the most promising path toward general-purpose learning systems. I am broadly interested in nearly all sub-directions of RL (Multi-Agent, RLHF, Robotic Learning, Games, etc), and the societal and economic impacts of related technologies. I am actively exploring potential research opportunities, including PhD and RA positions.
+I am Kaiyuan Liu (柳凯元), a senior at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. My current research interests center around **Reinforcement Learning (RL)** — a field I believe is the most promising path toward general-purpose learning systems. I am broadly interested in nearly all sub-directions of RL (RLVR, Multi-Agent, Robotic Learning, Games, etc), and the societal and economic impacts of related technologies. I am actively exploring potential research opportunities, including PhD and RA positions.
+
+**I am actively looking for PhD position starting 2026 Fall!**
 
 My research journey has spanned several areas, including **Theoretical Computer Science**, **Machine Learning Systems**, and **Computational Neuroscience**. While I no longer focus directly on brain-inspired computation, it has profoundly shaped my research intuition and continues to inform how I think about learning and intelligence.
 
@@ -25,11 +27,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
