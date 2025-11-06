@@ -5,7 +5,7 @@ category: manuscripts #conferences
 permalink: /publication/livecodebench-pro/
 date: 2025-05-15
 #excerpt: Evaluate LLM CP performance.
-venue: "Under Review"
+venue: "Neurips 2025"
 paperurl: "https://arxiv.org/abs/2506.11928"
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/pdf/2506.11928'

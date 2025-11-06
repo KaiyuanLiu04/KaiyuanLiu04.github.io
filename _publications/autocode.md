@@ -3,7 +3,7 @@ title: "AutoCode: LLMs as Problem Setters for Competitive Programming"
 collection: publications
 category: manuscripts #conferences
 permalink: /publication/autocode/
-date: 2025-05-15
+date: 2025-09-15
 #excerpt: Evaluate LLM CP performance.
 venue: "Under Review"
 paperurl: "https://arxiv.org/pdf/2510.12803"
