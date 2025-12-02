@@ -1,7 +1,7 @@
 ---
 title: "LiveCodeBench Pro: How Do Olympiad Medalists Judge LLMs in Competitive Programming?"
 collection: publications
-category: manuscripts #conferences
+category: conferences
 permalink: /publication/livecodebench-pro/
 date: 2025-05-15
 #excerpt: Evaluate LLM CP performance.
