@@ -7,15 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-I am Kaiyuan Liu (柳凯元), a senior at the Paul G. Allen School of Computer Science & Engineering at the University of Washington. My current research interests center around **Reinforcement Learning (RL)** — a field I believe is the most promising path toward general-purpose learning systems. I am broadly interested in nearly all sub-directions of RL (RLVR, Multi-Agent, Robotic Learning, Games, etc), and the societal and economic impacts of related technologies. I am actively exploring potential research opportunities, including PhD and RA positions.
+# Kaiyuan Liu (柳凯元)
+Senior, Paul G. Allen School of Computer Science & Engineering, University of Washington
 
-**I am actively looking for PhD position starting 2026 Fall!**
+## 🔥 Latest News
+* **[Jan 2025]** 🏆 I am honored to have received an **Honorable Mention** for the **CRA Undergraduate Research Award**!
+* **[Recruiting]** I am actively looking for **PhD positions starting Fall 2026**!
+* **[Dec 2025]** I will be present our Livecodebench Pro at San Diego, Neurips 2025
 
-My research journey has spanned several areas, including **Theoretical Computer Science**, **Machine Learning Systems**, and **Computational Neuroscience**. While I no longer focus directly on brain-inspired computation, it has profoundly shaped my research intuition and continues to inform how I think about learning and intelligence.
+---
 
+## About Me
+My current research interests center around **Reinforcement Learning (RL)**, a field I believe is the most promising path toward general-purpose learning systems. I am broadly interested in nearly all sub-directions of RL (RLVR, Multi-Agent, Robotic Learning, Games, etc.) and the societal and economic impacts of related technologies.
+
+My research journey has spanned several areas, including **Theoretical Computer Science**, **Machine Learning Systems**, and **Computational Neuroscience**. While I no longer focus directly on brain-inspired computation, it has profoundly shaped my research intuition.
+
+## Background
 I am also proud of my background in **Competitive Programming**, where I had the honor of representing my team in the **ICPC World Finals**.
 
-My Erdos number is 3!!
+*(Fun Fact: My Erdős number is 3!)*
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
