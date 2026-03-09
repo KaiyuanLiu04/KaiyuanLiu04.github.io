@@ -11,7 +11,7 @@ redirect_from:
 Senior, Paul G. Allen School of Computer Science & Engineering, University of Washington
 
 ## 🔥 Latest News
-* **[Jan 2025]** 🏆 I am honored to have received an **Honorable Mention** for the **CRA Undergraduate Research Award**!
+* **[Jan 2026]** 🏆 I am honored to have received an **Honorable Mention** for the **CRA Undergraduate Research Award**!
 * **[Recruiting]** I am actively looking for **PhD positions starting Fall 2026**!
 * **[Dec 2025]** I will be present our Livecodebench Pro at San Diego, Neurips 2025
 
