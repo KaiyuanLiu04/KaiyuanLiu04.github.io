@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Kaiyuan Liu"
 title_separator          : "-"
 name                     : &name "Kaiyuan Liu"
-description              : &description "CSE Undergrad at UW"
+description              : &description "B.S./M.S. Student in Computer Science at UW"
 url                      : https://KaiyuanLiu04.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Kaiyuan Liu"
   pronouns         : # example: "she/her"  
-  bio              : "CSE Undergrad at UW"
+  bio              : "B.S./M.S. Student in Computer Science at UW"
   location         : "Seattle"
   employer         : #"Allen Institute"
   uri              : # URL
@@ -81,6 +81,8 @@ publication_category:
     title: 'Manuscripts'    
   conferences:
     title: 'Conference Papers'
+  workshops:
+    title: 'Workshop Papers'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
