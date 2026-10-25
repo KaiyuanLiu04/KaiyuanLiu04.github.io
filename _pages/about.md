@@ -23,7 +23,7 @@ In the near term, I approach this question through **multi-agent systems**. This
 Concretely, I work on two questions:
 
 1. **Scaling strategies on long-horizon tasks.** How do models, whether a single agent or an agent swarm, spend their compute on very long-horizon tasks? How can we use that understanding to make them perform better, and ultimately to achieve better continual learning? My representative work, [When Agents Slow Down](https://arxiv.org/abs/2609.15309), studies how LLM agents allocate test-time compute as they revise solutions, use tools, explore alternatives, and decide when to stop, through an Elo-per-token lens.
-2. **Emergent behavior and communication in multi-agent systems.** What behaviors and communication structures emerge on their own when models interact? How can we interpret a multi-agent system as a whole, beyond interpreting a single model? I am also excited about the bridge in both directions: using what we know about human societies to understand agents, and using agents to better understand society. My work on [LLM agents as human simulators in climate social dilemmas](https://openreview.net/forum?id=wTgTyIgRv3) is an early step in this direction.
+2. **Emergent behavior and communication in multi-agent systems.** What behaviors and communication structures emerge on their own when models interact? How can we interpret a multi-agent system as a whole, beyond interpreting a single model? I am also excited about the bridge in both directions: using what we know about human societies to understand agents, and using agents to better understand society.
 
 ## Latest News
 * **[Oct 2026]** [FrontierCS 2: A Benchmark for Computer Science R&D](https://arxiv.org/abs/2610.29932) is now on arXiv.
