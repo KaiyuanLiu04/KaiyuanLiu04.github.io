@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/opendeepthink/
 date: 2026-05-14
-venue: "arXiv Preprint"
+venue: "Under Review at ICLR 2027"
 paperurl: "https://arxiv.org/abs/2605.15177"
 ---
 **Authors:** Shang Zhou, Wenhao Chai, **Kaiyuan Liu**, Huanzhi Mao, Qiuyang Mang, Jingbo Shang
