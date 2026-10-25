@@ -13,6 +13,9 @@ B.S./M.S. Student, Paul G. Allen School of Computer Science & Engineering, Unive
 I am a student in the combined B.S./M.S. program in Computer Science at the University of Washington, where I am fortunate to be mentored by [Natasha Jaques](https://natashajaques.ai/) and [Luke Zettlemoyer](https://www.cs.washington.edu/people/faculty/luke-zettlemoyer/). I also work closely with [Alex Dimakis](https://people.eecs.berkeley.edu/~alexdimakis/) at UC Berkeley. In Summer 2026, I was a research intern at Microsoft AI, working with Asli Celikyilmaz on self-improvement.
 
 ## Latest News
+* **[Oct 2026]** [FrontierCS 2: A Benchmark for Computer Science R&D](https://arxiv.org/abs/2610.29932) is now on arXiv.
+* **[Sep 2026]** Three papers accepted to **NeurIPS 2026**: [FrontierSmith](https://arxiv.org/abs/2605.14445) (**Spotlight**), [Harbor](https://arxiv.org/abs/2609.04298), and [Agents' Last Exam](https://arxiv.org/abs/2606.05405).
+* **[Sep 2026]** [EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics](https://arxiv.org/abs/2609.27308) is now on arXiv.
 * **[Sep 2026]** New first-author preprint on arXiv: [When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis](https://arxiv.org/abs/2609.15309).
 * **[Sep 2026]** [Harbor Adapters and Harbor-Index](https://arxiv.org/abs/2609.04298) is now on arXiv.
 * **[Jun 2026]** I received the **Best Senior Thesis Award** from the Paul G. Allen School.
